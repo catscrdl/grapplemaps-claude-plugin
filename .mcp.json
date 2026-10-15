@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "grapplemaps": {
+      "type": "http",
+      "url": "https://mcp.grapple-maps.com/mcp"
+    }
+  }
+}

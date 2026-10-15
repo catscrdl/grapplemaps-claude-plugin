@@ -1,0 +1,11 @@
+{
+  "name": "grapplemaps",
+  "displayName": "GrappleMaps",
+  "version": "1.0.0",
+  "description": "Find Brazilian jiu-jitsu and grappling gyms, compare public listing details, and check class schedules.",
+  "author": { "name": "GrappleMaps", "url": "https://grapple-maps.com" },
+  "homepage": "https://grapple-maps.com",
+  "repository": "https://github.com/catscrdl/grapplemaps-claude-plugin",
+  "license": "MIT",
+  "keywords": ["bjj", "jiu-jitsu", "grappling", "gyms", "class schedules"]
+}
